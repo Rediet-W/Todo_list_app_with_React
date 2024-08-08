@@ -26,5 +26,5 @@ npm run dev
 
 ![Screenshot](images/image1.png)
 initial page with no task added
-![Screenshot](images/image.png)
+![Screenshot](images/image3.png)
 tasks added and with edit buttons and checkbox to mark/delete a task
